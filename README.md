@@ -14,5 +14,6 @@ https://drive.google.com/open?id=1tBndSxFD6-okAaiGxkT4Iz9NLDSOlddd
 
 After extensive research I have come to the conclusion that currently the best system to start HMS development is to build it on holochain.
 
-The end of capitalism will be the beginning of the joy of living 
-                                                      Vandana Shiva
+
+
+The end of capitalism will be the beginning of the joy of living  ( Vandana Shiva )
