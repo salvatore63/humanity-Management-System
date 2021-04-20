@@ -11,8 +11,8 @@ Here you can find a more detailed description of the individual elements of the 
 
 https://drive.google.com/open?id=1tBndSxFD6-okAaiGxkT4Iz9NLDSOlddd
 
-
 After extensive research I have come to the conclusion that currently the best system to start HMS development is to build it on holochain.
+
 
 
 
