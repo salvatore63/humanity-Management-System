@@ -13,7 +13,7 @@ The following documents describe the structure of the system to contain the nece
 
 [Here you can find my vision of the world](https://drive.google.com/file/d/1Z0I1WyXI_SbP1Xg3Zii9E1GzryQnSCJ-/view?usp=sharing)
 
-After extensive research I have come to the conclusion that currently the best system to start HMS development is to build it on [holochain](https://holochain.org).
+After extensive research I have come to the conclusion that currently the best system to start HMS development is to build it on [IPFS](https://github.com/ipfs/ipfs).
 
 The end of capitalism will be the beginning of the joy of living  ( Vandana Shiva )
 -
