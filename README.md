@@ -7,7 +7,7 @@ The following documents describe the structure of the system to contain the nece
 
 [Big Data Structure](https://drive.google.com/file/d/14Ya13sM_8SvwcYgYqrexub9eICXsY-yN/view?usp=sharing)
 
-[Here you can find a more detailed description of the individual elements of the graph](https://drive.google.com/open?id=1tBndSxFD6-okAaiGxkT4Iz9NLDSOlddd)
+[Here you can find a more detailed description of the individual elements of the graph](https://docs.google.com/document/d/1l75QACp6iYsP8bfQ-BNlf1ndcwgoX1Hv)
 
 [Here you can find my vision of the world](https://drive.google.com/file/d/1Z0I1WyXI_SbP1Xg3Zii9E1GzryQnSCJ-/view?usp=sharing)
 
