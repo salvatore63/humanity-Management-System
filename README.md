@@ -9,7 +9,7 @@ The following documents describe the structure of the system to contain the nece
 
 [Here you can find a more detailed description of the individual elements of the graph](https://docs.google.com/document/d/1l75QACp6iYsP8bfQ-BNlf1ndcwgoX1Hv)
 
-[Here you can find my vision of the world](https://drive.google.com/file/d/1Z0I1WyXI_SbP1Xg3Zii9E1GzryQnSCJ-/view?usp=sharing)
+[Here you can find my vision of the world](https://drive.google.com/file/d/1d0nhWGiJ1ZOmdXpC5TnQQNrq8YndRYcy/view)
 
 After extensive research I have come to the conclusion that currently the best system to start HMS development is to build it on [IPFS](https://github.com/ipfs/ipfs).
 
